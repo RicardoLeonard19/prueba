@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (1080p)
 https://tyg2mnl9.fubohd.com/dsports2/mono.m3u8?token=45b3fd5d867bcdf00434cecd80e363dce4262278-6f-1775524558-1775506558
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (1080p)
+https://anvtcax.fubohd.com/hypermotion1/mono.m3u8?token=57554257922c8cf615d792b5f18ebf58b074fa80-6-1775526271-1775508271
