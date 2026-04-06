@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://www.seekpng.com/png/full/223-2230029_directv-sports-2-logo.png" group-title="Sports",DirecTV Sports (1080p)
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://www.seekpng.com/png/full/223-2230029_directv-sports-2-logo.png" group-title="Sports",DirecTV Sports2 (1080p)
 https://tyg2mnl9.fubohd.com/dsports2/mono.m3u8?token=45b3fd5d867bcdf00434cecd80e363dce4262278-6f-1775524558-1775506558
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://muchacalidad.com/wp-content/uploads/2025/04/image-304.png" group-title="Sports",LaLiga-Hypermotion (1080p)
 https://anvtcax.fubohd.com/hypermotion1/mono.m3u8?token=57554257922c8cf615d792b5f18ebf58b074fa80-6-1775526271-1775508271
@@ -19,3 +19,45 @@ https://aw1wcm92zq.fubohd.com/foxsports2_usa/mono.m3u8?token=e3771c207dee6fc6192
 https://c2nvdxq.fubohd.com/foxsports1_usa/mono.m3u8?token=e338cc6bc15069c900afdd2926beb02efe90cf6b-bc-1775529019-1775511019
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="Sports",Fox Sport usa (1080p)
 https://tyg2mnl9.fubohd.com/foxdeportes/mono.m3u8?token=7fd8baa4e2a511892f63ba3fe4d24a8e6227dd25-39-1775529075-1775511075
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn Deportes usa (1080p)
+https://agvyby.fubohd.com/espndeportes/mono.m3u8?token=0ab9f5a7626ea07516698f589232b89c9eeb0db5-a-1775529130-1775511130
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://images.seeklogo.com/logo-png/36/1/tudn-logo-png_seeklogo-368749.png" group-title="Sports",TUDN usa (1080p)
+https://anvtcax.fubohd.com/tudn/mono.m3u8?token=a6184ac04ce35bd0f48c4d062661322226fa7b6b-f6-1775529212-1775511212
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://images.seeklogo.com/logo-png/38/1/azteca-deportes-logo-png_seeklogo-381619.png" group-title="Sports",Azteca Deportes (1080p)
+https://a2vlca.fubohd.com/azteca_deportes/mono.m3u8?token=c5b26173bc725c1f57e05b1faa7f90a345696ac8-8-1775529374-1775511374
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn3 Mx (1080p)
+https://anvtcax.fubohd.com/espn3mx/mono.m3u8?token=2253d0ca86f7689e382246365adba94f8cb18706-e7-1775529474-1775511474
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn4 Mx (1080p)
+https://bgfuzq.fubohd.com/espn4mx/mono.m3u8?token=aa2254deecc787441dcc207d435f1ec238f617c4-0-1775529628-1775511628
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn2 Mx (1080p)
+https://rm8zcvk3.fubohd.com/espn2mx/mono.m3u8?token=e6fc302b81d96e8dc781edb8698da35e91b670cb-f-1775529679-1775511679
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://www.fullentretenimiento.com/assetsInicio/img/WinSportsPlusPremium.png" group-title="Sports",Win sport plus (1080p)
+https://rm8zcvk3.fubohd.com/winsportsplus/mono.m3u8?token=ca684cc86e0fe4b8992fa3416543d4a55669c368-8f-1775529795-1775511795
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn premiun arg (1080p)
+https://c2nvdxq.fubohd.com/espnpremium/mono.m3u8?token=65f5d4583501bdc615d4e0ab0d698dca45f3640e-d2-1775530034-1775512034
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="" group-title="Sports",Tyc sport INT usa (1080p)
+https://dw5pdgvk.fubohd.com/tycinternacional/mono.m3u8?token=bf39eb006e1694f7e2d0194af6417ab988379d98-b-1775530107-1775512107
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="Sports",Fox Sport2 arg (1080p)
+https://c2nvdxq.fubohd.com/foxsports2/mono.m3u8?token=4cb032039ecdb42504d39ccc23f600aa340abc14-5b-1775530182-1775512182
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="" group-title="Sports",TNT Sport arg (1080p)
+https://c2nvdxq.fubohd.com/tntsports/mono.m3u8?token=ed09d5c6a5e7e7e75ecba2abac23bb8dac1861f6-ff-1775530249-1775512249
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="" group-title="Sports",Tyc sport arg (1080p)
+https://rm8zcvk3.fubohd.com/tycsports/mono.m3u8?token=1fe5bdc870e3fbd427c14a240e91b06d615dc311-6c-1775530307-1775512307
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="" group-title="Sports",Telefe arg (1080p)
+https://ym9yzq.fubohd.com/telefe/mono.m3u8?token=8952b3e57e2a8458c5cba4ba20a16904ea0b4600-5-1775530376-1775512376
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn 2 (1080p)
+https://agvyby.fubohd.com/espn2/mono.m3u8?token=4e481602950f53e65b27881b0b450c666545a5e1-47-1775530470-1775512470
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn 3 (1080p)
+https://anvtcax.fubohd.com/espn3/mono.m3u8?token=fc78d29094ca7eec7cc4a9ed5667f70767a06db5-b2-1775530525-1775512525
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn 4 (1080p)
+https://x4bnd7lq.fubohd.com/espn4/mono.m3u8?token=c9eb84eec214e642011c79ef7e39f70cad68f53a-d3-1775530560-1775512560
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn 5 (1080p)
+https://bgfuzq.fubohd.com/espn5/mono.m3u8?token=fcc69a5ca28e50ca8567ed86400ebff7582e01e9-1c-1775530606-1775512606
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn 6 (1080p)
+https://cgxheq.fubohd.com/espn6/mono.m3u8?token=65017b01200b5fc16fe3753291806bf502f754d1-24-1775530653-1775512653
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://logodix.com/logo/1870690.png" group-title="Sports",Espn 7 (1080p)
+https://ym9yzq.fubohd.com/espn7/mono.m3u8?token=d6413afb6954a40bfe8ff9ea73024113c1350e7a-cb-1775530920-1775512920
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://www.seekpng.com/png/full/223-2230029_directv-sports-2-logo.png" group-title="Sports",DirecTV Sports (1080p)
+https://dw5pdgvk.fubohd.com/dsports/mono.m3u8?token=3fc15f18cb0cfc148c06b91a7dff7f60ee0cce24-22-1775531124-1775513124
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://www.seekpng.com/png/full/223-2230029_directv-sports-2-logo.png" group-title="Sports",DirecTV Sports plus (1080p)
+https://tyg2mnl9.fubohd.com/dsportsplus/mono.m3u8?token=c3f16bbe5965215d81e3451c6ddb07108c14b22b-f9-1775531188-1775513188
